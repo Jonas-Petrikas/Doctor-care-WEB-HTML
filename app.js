@@ -6,17 +6,10 @@ const logoASpan = document.querySelector('.logo a span');
 const NavItemTxt = document.querySelectorAll('.header-bin ul li a');
 const NavButton = document.querySelector ('.header-bin button.right');
 
-
-
-console.log (landing.dataset.statusas);
-console.log (window, window.scrollY);
-
-let statusas = landing.dataset.statusas;
-statusas = 'normal';
+let statusas =  'normal';
 
 // Add an event listener for the scroll event
 window.addEventListener('scroll', _ => {
-  console.log(statusas);
   
   if (window.scrollY > 50 ) {
     // Add the 'header-scrolled' class when scrolling
