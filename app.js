@@ -18,8 +18,6 @@ window.addEventListener('scroll', _ =>{
     NavButton.style.backgroundColor = 'var(--brand-green)';
     NavButton.style.border = '1px solid var(--white)';
 
-
-    
 });
 
 // // Select the header
