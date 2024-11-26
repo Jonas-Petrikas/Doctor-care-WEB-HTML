@@ -19,4 +19,21 @@ window.addEventListener('scroll', _ =>{
     NavButton.style.border = '1px solid var(--white)';
 
 
+    
 });
+
+// // Select the header
+// const header = document.getElementById('header');
+ 
+// // Add an event listener for the scroll event
+// window.addEventListener('scroll', () => {
+//   if (window.scrollY > 50) {
+//     // Add the 'header-scrolled' class when scrolling
+//     header.classList.add('header-scrolled');
+//     header.classList.remove('header-normal');
+//   } else {
+//     // Remove the 'header-scrolled' class when back at the top
+//     header.classList.remove('header-scrolled');
+//     header.classList.add('header-normal');
+//   }
+// });
