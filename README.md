@@ -16,11 +16,14 @@ Simple one page website based on [design from Figma](https://www.figma.com/desig
 
 ## Installation
 
-Install poject with npm
-
-```bash
-  npm install
-```
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Jonas-Petrikas/Doctor-care-WEB-HTML.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
     
 ## Build with:
 
@@ -39,7 +42,11 @@ Install poject with npm
 ![App Screenshot](https://raw.githubusercontent.com/Jonas-Petrikas/Doctor-care-WEB-HTML/refs/heads/main/screenshots/Screenshot%202025-03-17%20at%2010.02.46.png)
 
 
+## Roadmap
 
+- [x] Replicate the Descktop design
+- [ ] Add animation & hover effects
+- [ ] Mobile adaptation & burger menu
 
 
 ## Authors
